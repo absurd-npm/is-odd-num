@@ -1,7 +1,7 @@
 {
   "name": "isodd",
   "version": "1.0.0",
-  "description": "a simple package to find a given numver is odd or not",
+  "description": "a simple package to find a given number is odd or not",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -20,5 +20,14 @@
   "dependencies": {
     "is-number": "^7.0.0",
     "mocha": "^9.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/absurd-npm/isodd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/absurd-npm/isodd/issues"
+  },
+  "homepage": "https://github.com/absurd-npm/isodd#readme"
 }

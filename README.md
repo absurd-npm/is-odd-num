@@ -1,4 +1,4 @@
-# is-odd [![NPM version](https://img.shields.io/npm/v/is-odd.svg?style=flat)](https://www.npmjs.com/package/isodd) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-odd.svg?style=flat)](https://npmjs.org/package/isodd) [![NPM total downloads](https://img.shields.io/npm/dt/is-odd.svg?style=flat)](https://npmjs.org/package/isodd) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/is-odd.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/isodd)
+# is-odd-num [![NPM version](https://img.shields.io/npm/v/is-odd.svg?style=flat)](https://www.npmjs.com/package/isodd) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-odd.svg?style=flat)](https://www.npmjs.com/package/is-odd-num) [![NPM total downloads](https://img.shields.io/npm/dt/is-odd.svg?style=flat)](https://www.npmjs.com/package/is-odd-num) 
 
 > Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.
 
@@ -15,7 +15,7 @@ $ npm install --save isodd
 Works with strings or numbers.
 
 ```js
-const isOdd = require('isodd');
+const isOdd = require('is-odd-num');
 
 console.log(isOdd('1')); //=> true
 console.log(isOdd('3')); //=> true

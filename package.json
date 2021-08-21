@@ -1,5 +1,5 @@
 {
-  "name": "isodd",
+  "name": "is-odd-num",
   "version": "1.0.0",
   "description": "a simple package to find a given number is odd or not",
   "main": "index.js",

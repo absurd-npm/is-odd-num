@@ -7,7 +7,7 @@
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save isodd
+$ npm install --save is-odd-num
 ```
 
 ## Usage
